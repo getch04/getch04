@@ -17,8 +17,8 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
-- 🔭 Working on exciting projects.
-- 🌟 Top Rated Upwork Developer.
+- 🔭 Working on exciting Mobile and Web projects.
+- 🌟 Top Rated Upwork Developer Full-stack Developer.
 - 🌱 Always learning...
 - 💬 Ask me about Flutter, ReactJS, NextJS, and more!
 - 📫 Reach me at: [getbet04@gmail.com](mailto:getbet04@gmail.com)
