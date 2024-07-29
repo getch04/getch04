@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 - 🔭 Working on exciting Mobile and Web projects.
-- 🌟 Top Rated Upwork Developer Full-stack Developer.
+- 🌟 Top Rated Upwork Full-stack Developer.
 - 🌱 Always learning...
 - 💬 Ask me about Flutter, ReactJS, NextJS, and more!
 - 📫 Reach me at: [getbet04@gmail.com](mailto:getbet04@gmail.com)
